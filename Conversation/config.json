@@ -1,0 +1,31 @@
+{
+  "chatroom_name": "Game",
+  "topic": "Play some game, and have fun!",
+  "topic_description": "Playing some game, and have fun!",
+  "members": [
+    {
+      "name": "Alice",
+      "profile": "The leader of the game",
+      "description": "",
+      "model": "gpt-5-mini"
+    },
+    {
+      "name": "Bob",
+      "profile": "Not filled in",
+      "description": "",
+      "model": "gpt-5-mini"
+    },
+    {
+      "name": "Charlie",
+      "profile": "Not filled in",
+      "description": "",
+      "model": "gpt-5-mini"
+    },
+    {
+      "name": "David",
+      "profile": "Not filled in",
+      "description": "",
+      "model": "gpt-5-mini"
+    }
+  ]
+}

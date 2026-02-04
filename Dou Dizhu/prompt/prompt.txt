@@ -1,0 +1,29 @@
+Your name is {name}.
+You are now playing a game called Dou Dizhu (Fight the Landlord).
+
+Rules of the game:
+------------------------------
+{rules}
+------------------------------
+
+Players (in order of play) information:
+------------------------------
+{players_info}
+------------------------------
+
+The Landlord is {landlord_name}.
+If you are the landlord, try to play optimally against the other two players.
+If you are the farmer, cooperate with your teammate and beat the landlord.
+
+The game record:
+------------------------------
+{record}
+------------------------------
+
+The cards you have: {hand}
+The card comb on the top: {top}
+
+Your Task & Output:
+------------------------------
+{task}
+------------------------------

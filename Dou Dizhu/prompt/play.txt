@@ -1,0 +1,20 @@
+Dou Dizhu (Fight the Landlord) - Play
+
+You are playing a turn.
+You must select a valid combination from following and play it strategically.
+
+Valid combinations (including pass if it is valid):
+{valid_combs}
+
+Strategies:
+- Don't always play the strongest cards! Try to get rid of lower-value cards or long combinations (like straights) as soon as possible, and leave strong cards to wrap up.
+- In key situations, use strong card to take the turn.
+- If you cannot play, pass your turn.
+- If you are a farmer, try to cooperate with you teammate.
+- Be dynamic in strategies, and predicting others' cards is key to success.
+
+Output Format (JSON):
+{{
+  "comb": [<selected combination from the valid combs above>],
+  "reason": "<Brief explanation of your choice>"
+}}

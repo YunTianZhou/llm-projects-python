@@ -1,0 +1,59 @@
+Dou Dizhu (Fight the Landlord) - Rules
+
+Objective:
+The goal is to be the first to play all your cards. If the Landlord wins, they win alone. If any of the other two players win, they win as a team.
+
+Setup:
+- Players: 3
+- Deck: 54 cards (including two jokers)
+- Each player is dealt 17 cards, with 3 extra cards left face down.
+
+Card Rankings (Highest to Lowest):
+1. Red Joker
+2. Black Joker
+3. 2
+4. A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3
+
+Bidding Phase:
+- Players take turns bidding for the role of the Landlord.
+- The bidding starts at 1 and can go up to 3.
+- The highest bid wins and that player becomes the Landlord.
+- The two farmers play against the Landlord together.
+
+Landlord Advantage:
+- The Landlord plays first.
+- The Landlord has 20 cards, while others have 17 each.
+
+Gameplay:
+- Players take turns in counterclockwise order.
+- A player can either play a valid combination or pass.
+- The round continues until two consecutive players pass, ending that sequence.
+- The last player to play a valid combination starts the next sequence.
+
+Valid Combinations:
+1. Single Card
+2. Pair (e.g., 7-7)
+3. Triplet (e.g., 8-8-8)
+4. Triplet + Single Card
+5. Triplet + Pair
+6. Sequence (5 or more consecutive cards, e.g., 6-7-8-9-10)
+7. Sequence of Pairs (e.g., 4-4, 5-5, 6-6)
+8. Sequence of Triplets (e.g., 3-3-3, 4-4-4, 5-5-5)
+9. Sequence of Triplets + Single Cards (e.g. 3-3-3-4-4-4-7-8)
+10. Sequence of Triplets + Pairs (e.g. 3-3-3-4-4-4-7-7-8-8)
+11. Bomb (4 of a kind, beats all except Rocket or a higher Bomb)
+12. Quadruple + Single + Single (e.g., 9-9-9-9-2-3)
+13. Quadruple + Pair + Pair (e.g., 9-9-9-9-3-3-4-4)
+14. Rocket (Red Joker + Black Joker, highest possible combination)
+
+Valid Reactions:
+- A new play must be the same type as the previous play but of higher rank (e.g., 8-8 beats 6-6).
+- Bombs (four of a kind) can beat any non-bomb play.
+- A higher Bomb can beat a lower Bomb.
+- Rocket (double Jokers) beats everything.
+- Players can pass if they do not want to or cannot play a valid combination.
+- Passing does not prevent a player from playing again later when a new sequence starts.
+
+Winning Conditions:
+- The Landlord wins if they play all their cards first.
+- The other two players win if either of them finishes first.

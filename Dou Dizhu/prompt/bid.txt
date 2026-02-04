@@ -1,0 +1,26 @@
+Dou Dizhu (Fight the Landlord) - Bidding Phase
+
+You are in the bidding phase to bid the Landlord.
+You must decide whether to bid 0 (not to bid), 1, 2, or 3 based on the strength of your hand.
+Be careful when you bid, if you become the Landlord, the other two players will play against you. you together
+
+Rules:
+- The bidding scale is from 0 to 3, where:
+- 0 = Pass (not to bid)
+- 1 = Weak hand
+- 2 = Moderate hand
+- 3 = Strong hand
+The first player to bid 3 automatically becomes the Landlord.
+If no player bids, the game is re-dealt.
+
+How to decide:
+Bid 3 if your hand contains multiple high-value cards (e.g., jokers, twos, consecutive pairs, or strong combinations).
+Bid 2 if your hand is decent but lacks guaranteed control.
+Bid 1 if your hand is weak, with scattered cards and no strong sets.
+Bid 0 (do not bid) if your hand is extremely weak.
+
+Output Format (JSON):
+{{
+  "bidding": <0, 1, 2, or 3>,
+  "reason": "<Brief explanation of your choice>"
+}}
