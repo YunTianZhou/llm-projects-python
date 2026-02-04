@@ -1,4 +1,7 @@
+# This is a project to test if your llm configuration is correct.
 from llm_client import LLMClient
+
+MODEL = "gpt-5-mini"
 
 
 def main():
